@@ -5,5 +5,6 @@ public class Test {
         Base base = new Derived();
         base.f();
         base.g();
+        System.out.println("first commit");
     }
 }
